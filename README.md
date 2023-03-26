@@ -7,4 +7,4 @@ The quiz has questions about superheroes from DC and Marvel.
 Do check it out and see if you can beat the high score!
 
 Please find the link of the quiz below:
-https://replit.com/@SurajitPaul/level0Lesson1AssignmentDone
+https://replit.com/@SurajitPaul/Superheroquiz?embed=1&output=1
